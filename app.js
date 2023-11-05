@@ -9,7 +9,7 @@ document.write("sum of 3 and 5 is" + " " + num3)
 
 // Chapter 5 Q:2
 
-multipication
+//multipication
 var num1 = 3;
 var num2 = 5;
 var num3 = num1*num2;
@@ -34,7 +34,7 @@ var num3 = num1%num2;
  document.write("modulus of 3 and 5 is" + " " + num3)
 
 // Chapter 5 Q:3
-"value after variable declaration is undefined";
+//"value after variable declaration is undefined";
 var a;
 document.write("value after variable declaration is undefined <br>")
  var a = 5;
